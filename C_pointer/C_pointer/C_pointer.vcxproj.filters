@@ -24,5 +24,8 @@
     <ClCompile Include="doublepointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
