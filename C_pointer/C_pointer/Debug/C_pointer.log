@@ -1,2 +1,3 @@
-﻿  pointer.c
+﻿  pointer_array.c
+C:\Users\Drimsys\C\C_pointer\C_pointer\pointer_array.c(133,13): warning C4048: 배열 첨자가 다릅니다. 'char (*)[3]'과(와) 'char (*)[5]'
   C_pointer.vcxproj -> C:\Users\Drimsys\C\C_pointer\Debug\C_pointer.exe
