@@ -1,3 +1,4 @@
-﻿  pointer_array.c
-C:\Users\Drimsys\C\C_pointer\C_pointer\pointer_array.c(133,13): warning C4048: 배열 첨자가 다릅니다. 'char (*)[3]'과(와) 'char (*)[5]'
+﻿  struct.c
+C:\Users\Drimsys\C\C_pointer\C_pointer\struct.c(49,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Drimsys\C\C_pointer\C_pointer\struct.c(51,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C_pointer.vcxproj -> C:\Users\Drimsys\C\C_pointer\Debug\C_pointer.exe
