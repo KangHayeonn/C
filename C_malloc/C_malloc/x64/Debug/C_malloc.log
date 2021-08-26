@@ -1,0 +1,4 @@
+﻿  malloc.c
+C:\Users\Drimsys\C\C_malloc\C_malloc\malloc.c(116,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Drimsys\C\C_malloc\C_malloc\malloc.c(124,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C_malloc.vcxproj -> C:\Users\Drimsys\C\C_malloc\x64\Debug\C_malloc.exe
