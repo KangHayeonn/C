@@ -21,7 +21,11 @@
   <ItemGroup>
     <ClCompile Include="malloc.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
+<<<<<<< HEAD
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+=======
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
+>>>>>>> fe7f9b394c77bcd2fa677cbd0293ce1af87e45c8
     </ClCompile>
     <ClCompile Include="test.c" />
   </ItemGroup>
