@@ -65,7 +65,7 @@ int main() {
 // : malloc처럼 메모리를 힙영역에 동적 할당한 후 0으로 전부 초기화시킴
 /*
 int main() {
-	int n, i; 
+	int n, i;
 	scanf("%d", &n);
 	int* arr = (int*)calloc(n, sizeof(int));
 	printf("calloc 0으로 초기화\n");
@@ -127,7 +127,7 @@ int main() {
 	printf("\n");
 	for (int i = 0; i < n; i++)
 		for (int j = 0; j < m; j++)
-			printf("arr[%d][%d] = %d\n", i , j, arr[i][j]);
+			printf("arr[%d][%d] = %d\n", i, j, arr[i][j]);
 
 	for (i = 0; i < n; i++) free(arr[i]);
 	free(arr);
